@@ -18,7 +18,7 @@ Output program ini terjadi ketika pengguna memasukkan nama buku yang tidak sesua
 <img width="450" alt="Screenshot 2026-09-08 193331" src="https://github.com/user-attachments/assets/c28533b4-d46f-4b99-8b1a-eed56f5e15e9" />
 &nbsp;
 ### 2. Input buku sesuai dengan list
-Output program ini akan menampilkan kalimat "Buku Tersedia", lalu menampilkan kalimat ***decision*** dengan pengguna memasukkan kata "selesai" jika peminjaman buku selesai. Tapi program akan melakukan ***looping*** ketika pengguna menjawab selain kata "selesai" yaitu kembali ke pertanyaan buku yang ingin dipinjam.
+Output program ini akan menampilkan kalimat "Buku Tersedia", lalu menampilkan kalimat ***decision*** dengan pengguna memasukkan kata "selesai" jika peminjaman buku selesai dan menampilkan daftar buku sementara. Tapi program akan melakukan ***looping*** ketika pengguna menjawab selain kata "selesai" yaitu kembali ke pertanyaan buku yang ingin dipinjam.
 #### a. Ketika pengguna memasukkan kata "selesai"
 <img width="450" alt="Screenshot 2026-09-08 194534" src="https://github.com/user-attachments/assets/0fdde6cf-ed32-4446-820a-04431c24e3ee" />
 
