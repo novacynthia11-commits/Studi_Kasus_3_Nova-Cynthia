@@ -14,6 +14,7 @@ Setelah selesai, program akan menunjukkan berupa bukti peminjaman yang berisi li
 ## Output Program
 ### 1. Input buku tidak sesuai list
 Output program ini terjadi ketika pengguna memasukkan nama buku yang tidak sesuai dengan list buku yang sudah tersedia. Program akan menampilkan output berupa "Buku Tidak Tersedia" dan tetap melanjutkan pertanyaan buku yang ingin dipinjam. <br>
+<br>
 <img width="450" alt="Screenshot 2026-09-08 193331" src="https://github.com/user-attachments/assets/c28533b4-d46f-4b99-8b1a-eed56f5e15e9" />
 &nbsp;
 ### 2. Input buku sesuai dengan list
