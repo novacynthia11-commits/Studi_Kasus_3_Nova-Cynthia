@@ -1,2 +1,9 @@
-# dasar_pemograman_semt1
-Nama : Nova Cynthia
+# Studi_Kasus_3_Nova Cynthia
+**Nama :** Nova Cynthia <br>
+**NIM :** 2609116031 <br>
+**Program Studi :** Sistem Informasi <br>
+**Kelas :** A 2026 <br>
+**Mata Kuliah :** Dasar-Dasar Pemograman <br>
+
+## Sistem Peminjaman Buku Perpustakaan FT
+
